@@ -28,7 +28,6 @@
             >;
 
             display-name = "QWERT";
-            sensor-bindings = <&inc_dec_kp PG_DN PG_UP>;
         };
 
         layer_1 {
@@ -42,7 +41,6 @@
             >;
 
             display-name = "MOUSE";
-            sensor-bindings = <&none>;
         };
 
         layer_2 {
