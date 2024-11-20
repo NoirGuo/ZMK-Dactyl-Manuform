@@ -50,18 +50,18 @@ layers:
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-shift$$'}
   - $$mdi:apple-keyboard-control$$
   - LGUI
-  - $$mdi:apple-keyboard-option$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - CONTROL
-  - PG UP
-  - PG DN
-  - {t: '-', h: '$$mdi:apple-keyboard-option$$', s: _}
-  - {t: '=', h: '$$mdi:apple-keyboard-control$$', s: +}
-  - MOUSE
   - $$mdi:keyboard-space$$
   - {t: '`', h: MOUSE, s: '~'}
-  - {t: '$$mdi:backspace-reverse-outline$$', h: CONTROL}
+  - CONTROL
+  - PG UP
+  - {t: '-', h: '$$mdi:apple-keyboard-option$$', s: _}
   - $$mdi:keyboard-space$$
+  - {t: '=', h: '$$mdi:apple-keyboard-control$$', s: +}
+  - MOUSE
+  - $$mdi:apple-keyboard-option$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - PG DN
+  - {t: '$$mdi:backspace-reverse-outline$$', h: CONTROL}
   MOUSE:
   - {t: '$$mdi:transfer$$', type: trans}
   - F1
@@ -114,15 +114,15 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held alternate}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   CONTROL:
@@ -186,5 +186,5 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
