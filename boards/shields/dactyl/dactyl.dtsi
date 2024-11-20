@@ -8,8 +8,6 @@
 #include <physical_layouts.dtsi>
 
 
-#include <dactyll_layouts.dtsi>
-
 / {
     dactyl_layout: dactyl_layout {
         compatible = "zmk,physical-layout";
