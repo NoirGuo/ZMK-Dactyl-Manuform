@@ -18,10 +18,10 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: dactyl_left
+    shield: duo34_left
     snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
-    shield: dactyl_right
+    shield: duo34_right
   - board: nice_nano_v2
     shield: settings_reset
     
