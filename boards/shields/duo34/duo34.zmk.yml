@@ -1,6 +1,6 @@
 file_format: "1"
-id: dactyl
-name: Duo34
+id: duo34
+name: duo34
 type: shield
 url: https://github.com/NoirGuo/ZMK-Duo34
 requires: [nice_nano_v2]
