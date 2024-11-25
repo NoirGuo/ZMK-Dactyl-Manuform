@@ -17,11 +17,11 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano_v2
     shield: duo34_left
     snippet: studio-rpc-usb-uart
-  - board: nice_nano
+  - board: nice_nano_v2
     shield: duo34_right
-  - board: nice_nano
+  - board: nice_nano_v2
     shield: settings_reset
     
