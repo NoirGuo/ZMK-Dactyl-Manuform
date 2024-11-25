@@ -1,15 +1,15 @@
 
-if SHIELD_DACTYL_LEFT
+if SHIELD_DUO34_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "dactyl"
+    default "duo34"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_DACTYL_LEFT || SHIELD_DACTYL_RIGHT
+if SHIELD_DUO34_LEFT || SHIELD_DDUO34_RIGHT
 
 config ZMK_SPLIT
     default y
