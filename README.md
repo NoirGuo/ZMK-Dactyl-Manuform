@@ -1,2 +1,2 @@
 
-<img src="keymap-drawer/dactyl.svg" >
+<img src="keymap-drawer/duo34.svg" >
