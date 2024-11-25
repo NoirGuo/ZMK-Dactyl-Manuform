@@ -1,11 +1,11 @@
 file_format: "1"
 id: dactyl
-name: Dactyl
+name: Duo34
 type: shield
-url: https://github.com/NoirGuo/ZMK-Dactyl-Manuform
+url: https://github.com/NoirGuo/ZMK-Duo34
 requires: [nice_nano_v2]
 features:
   - keys
 siblings:
-  - dactyl_left
-  - dactyl_right
+  - duo34_left
+  - dduo34_right
